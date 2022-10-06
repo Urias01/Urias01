@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=omni&locale=en&hide_border=true&username=Urias01" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=omni&hide_border=true&username=Urias01" height="150" alt="languages graph"  />
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Urias01)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ###
