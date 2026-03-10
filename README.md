@@ -19,7 +19,6 @@ Currently I continue improving my backend skills and software architecture knowl
 ### Frontend
 - React
 - Next.js
-- Angular
 - JavaScript
 - TypeScript
 
